@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="image-container">
+      <img
+        class="img"
+        src="https://images.pexels.com/photos/31436563/pexels-photo-31436563/free-photo-of-black-and-white-image-of-cat-on-windowsill.jpeg?auto=compress&cs=tinysrgb&w=200"
+        alt="un gatito descansando"
+      />
+      <div class="overlay-text">Hola mundo</div>
+    </div>
+
+    <style>
+      .image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        width: fit-content;
+      }
+
+      .overlay-text {
+        color: white;
+        font-weight: bold;
+        background: rgba(0, 0, 0, 0.5);
+        padding: 10px;
+        position: absolute;
+      }
+    </style>
+  </body>
+</html>
