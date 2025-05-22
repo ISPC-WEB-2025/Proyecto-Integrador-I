@@ -5,7 +5,7 @@ Somos un equipo de estudiantes y futuros profesionales del desarrollo web y apli
 
 ---
 
-### **Aylen Bartolina Luna**
+### **Aylen Bartolino Luna**
 * **Intereses y Áreas de Aprendizaje:** Completar
 * **Tecnologías y Habilidades en Práctica:** Completar
 
