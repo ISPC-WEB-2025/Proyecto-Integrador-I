@@ -14,8 +14,8 @@ Somos un equipo de estudiantes y futuros profesionales del desarrollo web y apli
 * **Tecnologías y Habilidades en Práctica:** Completar
 
 ### **Miguel Flores**
-* **Intereses y Áreas de Aprendizaje:** Mi principal objetivo en este proyecto es llevar a la práctica conocimientos ya adquiridos en un entorno de equipo real, especialmente aplicando metodologías ágiles, algo que no he experimentado previamente. Por otro lado, me interesa mucho colaborar activamente y brindar apoyo a quienes están dando sus primeros pasos en programación.
-* **Tecnologías y Habilidades en Práctica:** Tengo conocimientos en Java, Python, C# y desarrollo web (HTML, CSS y JavaScript)
+- Mi principal objetivo en este proyecto es llevar a la práctica conocimientos ya adquiridos en un entorno de equipo real, especialmente aplicando metodologías ágiles, algo que no he experimentado previamente. Por otro lado, me interesa mucho colaborar activamente y brindar apoyo a quienes están dando sus primeros pasos en programación.
+- Tengo conocimientos en Java, Python, C# y desarrollo web (HTML, CSS y JavaScript)
 
 ### **Brenda Pogliano**
 * **Intereses y Áreas de Aprendizaje:** Completar
