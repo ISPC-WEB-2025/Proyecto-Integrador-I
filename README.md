@@ -21,8 +21,8 @@ Somos un equipo de estudiantes y futuros profesionales del desarrollo web y apli
 * **Intereses y Áreas de Aprendizaje:** Completar
 * **Tecnologías y Habilidades en Práctica:** Completar
 
-### **Elena Ponce**
-* **Intereses y Áreas de Aprendizaje:** Completar
-* **Tecnologías y Habilidades en Práctica:** Completar
+### **Maria Elena Haydeé Ponce**
+* **Intereses y Áreas de Aprendizaje:** Me interesa aprender cómo se crean sitios web desde cero y entender cómo funciona todo, tanto el diseño como la parte que no se ve. Quiero mejorar en el uso de herramientas de desarrollo web.
+* **Tecnologías y Habilidades en Práctica:** Manejo HTML, CSS, JavaScript, Python y Java. También utilizo Git y GitHub para organizar el código y trabajar en grupo. Me gusta colaborar con mis compañeros y aprender juntos.
 
 ---
