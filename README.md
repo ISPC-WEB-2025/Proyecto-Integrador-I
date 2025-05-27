@@ -6,8 +6,8 @@ Somos un equipo de estudiantes y futuros profesionales del desarrollo web y apli
 ---
 
 ### **Aylen Bartolino Luna**
-* **Intereses y Áreas de Aprendizaje:** Completar
-* **Tecnologías y Habilidades en Práctica:** Completar
+* **Intereses y Áreas de Aprendizaje:** Me gustaría aprender nuevas herramientas para desarrollar sitios webs y comprender las lógicas básicas de programación, con el objetivo de ampliar mis posibilidades laborales.
+* **Tecnologías y Habilidades en Práctica:** No tengo conocimientos previos.
 
 ### **Miguel Flores**
 - Mi principal objetivo en este proyecto es llevar a la práctica conocimientos ya adquiridos en un entorno de equipo real, especialmente aplicando metodologías ágiles, algo que no he experimentado previamente. Por otro lado, me interesa mucho colaborar activamente y brindar apoyo a quienes están dando sus primeros pasos en programación.
