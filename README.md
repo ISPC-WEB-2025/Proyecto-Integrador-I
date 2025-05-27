@@ -1,5 +1,7 @@
 # Proyecto-Integrador-I
 
+# Título del proyecto: 🏥 ClinicFlow
+
 ## 👥 Integrantes del Equipo
 Somos un equipo de estudiantes y futuros profesionales del desarrollo web y aplicaciones digitales. Cada uno aporta entusiasmo, nuevas perspectivas y las habilidades que estamos adquiriendo en nuestra tecnicatura, o las que ya hemos desarrollado. A continuación, les presentamos a cada miembro:
 
