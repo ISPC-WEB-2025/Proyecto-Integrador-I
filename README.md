@@ -14,8 +14,8 @@ Somos un equipo de estudiantes y futuros profesionales del desarrollo web y apli
 - Tengo conocimientos en Java, Python, C# y desarrollo web (HTML, CSS y JavaScript)
 
 ### **Brenda Pogliano**
-* **Intereses y Áreas de Aprendizaje:** Completar
-* **Tecnologías y Habilidades en Práctica:** Completar
+* **Intereses y Áreas de Aprendizaje:** Me interesa aprender esta habilidad desde cero, ya que sumaría a mis proyectos futuros y además me abriría paso a un sector laboral desconocido.
+* **Tecnologías y Habilidades en Práctica:** No cuento con conocimientos previos.
 
 ### **Maria Elena Haydeé Ponce**
 * **Intereses y Áreas de Aprendizaje:** Me interesa aprender cómo se crean sitios web desde cero y entender cómo funciona todo, tanto el diseño como la parte que no se ve. Quiero mejorar en el uso de herramientas de desarrollo web.
