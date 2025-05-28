@@ -2,21 +2,18 @@
 
 # Título del proyecto: 🏥 ClinicFlow
 
----
-
 ## 💡Descripción del Proyecto
 
 ClinicFlow es un sistema básico de gestión de ingresos y egresos de pacientes en una clínica. Su objetivo principal es optimizar el registro, control y seguimiento de los pacientes que ingresan y egresan de la institución, asegurando que la información esté centralizada, sea accesible y fácil de gestionar.
 
 El sistema está pensado para ser utilizado por el personal administrativo, médicos y personal de enfermería, facilitando la organización interna y mejorando la calidad del servicio brindado.
 
----
 ## 🎯 Problema que Busca Resolver
----
+
 En muchas clínicas pequeñas y medianas, el registro de pacientes todavía se realiza en papel o con sistemas no integrados, lo que genera pérdida de información, duplicidad de datos y dificultad para realizar seguimientos o auditorías. Este proyecto busca ofrecer una solución simple y digital para llevar un control claro y efectivo del flujo de pacientes.
 
 ## 🔍 Posibles Funcionalidades / Áreas de Enfoque Inicial
----
+
 * Registro de ingreso de pacientes con información básica (nombre, motivo de ingreso, fecha y hora).
 
 * Registro de egreso con detalles como diagnóstico, tratamiento, y fecha de salida.
@@ -34,7 +31,7 @@ En muchas clínicas pequeñas y medianas, el registro de pacientes todavía se r
 * Roles de usuario: administrativo, médico, enfermería (futuro).
 
 ## 👥 Posibles Usuarios
----
+
 * Recepcionistas y personal administrativo.
 
 * Médicos.
@@ -42,11 +39,11 @@ En muchas clínicas pequeñas y medianas, el registro de pacientes todavía se r
 * Enfermeros/as.
 
 * Directores o encargados de gestión clínica.
----
+
 
 ## 👥 Integrantes del Equipo
 Somos un equipo de estudiantes y futuros profesionales del desarrollo web y aplicaciones digitales. Cada uno aporta entusiasmo, nuevas perspectivas y las habilidades que estamos adquiriendo en nuestra tecnicatura, o las que ya hemos desarrollado. A continuación, les presentamos a cada miembro:
----
+
 
 ### **Aylen Bartolino Luna**
 * **Intereses y Áreas de Aprendizaje:** Me gustaría aprender nuevas herramientas para desarrollar sitios webs y comprender las lógicas básicas de programación, con el objetivo de ampliar mis posibilidades laborales.
