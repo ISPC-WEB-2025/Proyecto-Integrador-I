@@ -62,3 +62,4 @@ Somos un equipo de estudiantes y futuros profesionales del desarrollo web y apli
 * **Tecnologías y Habilidades en Práctica:** Manejo HTML, CSS, JavaScript, Python y Java. También utilizo Git y GitHub para organizar el código y trabajar en grupo. Me gusta colaborar con mis compañeros y aprender juntos.
 
 ---
+
